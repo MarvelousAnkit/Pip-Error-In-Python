@@ -19,7 +19,7 @@ Click Ok to close all windows and restart your command prompt.
 
 if you have already set the path correctly and still getting the same error then just follow this:
 
-Step 4 open your vs code and create a new project and copy all the code from get-pip.py File
+Step 4 open your vs code and create a new project and copy all the code from code.txt File.
 Step 5 Name this project as get-pip.py and run the code in vs code.
 Step 6 pip will get downloaded at the location where you create have set the path for saved projects of your vs code
 Step 7 Copy get-pip.py into your main python folder.
